@@ -252,5 +252,5 @@
 
   "routerHistoryMode": false,
 
-  "cssPreprocessor": "less"
+  "cssPreprocessor": "scss"
 }
