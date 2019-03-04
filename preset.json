@@ -16,15 +16,7 @@
     },
     
     "vue-cli-plugin-vuetify": {
-      "preset": "configure",
-      "replaceComponents": true,
-      "iconFont": "md",
-      "installFonts": false,
-      "locale": "en",
-      "useAlaCarte": true,
-      "useCustomProperties": false,
-      "usePolyfill": false,
-      "useTheme": false
+      "preset": "Default"
     }
   },
 
