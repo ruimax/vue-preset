@@ -2,19 +2,6 @@
   "useConfigFiles": true,
 
   "plugins": {
-
-    "@vue/cli-plugin-babel": {
-      "version": "^3.0.0"
-    },
-
-    "@vue/cli-plugin-eslint": {
-      "version": "^3.0.0",
-
-      "config": "standard",
-
-      "lintOn": ["save", "commit"]
-    },
-    
     "vue-cli-plugin-vuetify": {
       "preset": "configure",
       "replaceComponents": true,
