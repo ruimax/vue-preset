@@ -16,7 +16,8 @@
     },
     
     "vue-cli-plugin-vuetify": {
-      "version": "^0.4.6"
+      "version": "^0.4.6",
+      "presets": "default"
     }
   },
 
